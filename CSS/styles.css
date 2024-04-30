@@ -1,3 +1,7 @@
 .texto-git{
-    color: black;
+    color: rgb(0, 255, 213);
+    font-size: 400px;
+}
+body{
+    background-color: black;
 }
